@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="mainHeading">Superior University</string>
+    <string name="cs_department">CS Department</string>
+    <string name="se_department">SE Department</string>
+    <string name="it_department">IT Department</string>
+
+
+</resources>
